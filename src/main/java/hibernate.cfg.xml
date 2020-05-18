@@ -10,7 +10,7 @@
     <property name="hibernate.dialect">org.hibernate.dialect.MySQL5Dialect</property>
     
     <property name="connection.username">root</property>
-    <property name="connection.password">28327431</property>
+    <property name="connection.password">********</property>
     
     <property name="hibernate.hbm2ddl.auto">update</property>
     <property name="connection.pool_size">105</property>
