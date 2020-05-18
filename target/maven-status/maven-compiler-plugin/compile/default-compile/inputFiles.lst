@@ -1,0 +1,11 @@
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/app/HibernateSessionFactory.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/dao/CrudInterface.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/controllers/ProfileServlet.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/daoImpl/ZakazImpl.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/daoImpl/ProfileImpl.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/services/ProfileService.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/services/ZakazService.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/app/App.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/entity/Zakaz.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/controllers/ZakazServlet.java
+/home/Vladislav/eclipse-workspace/dw0774Server/src/main/java/entity/Profile.java
